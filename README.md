@@ -1,1 +1,1 @@
-# furniture-store
+Pure CSS and HTML for displaying a home page for furniture store.
